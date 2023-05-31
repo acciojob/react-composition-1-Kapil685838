@@ -13,7 +13,7 @@ const Tabs = (props) => {
             </ul>
             <p>{content}</p>
         </div>
-    )
+    );
 }
 
 export default Tabs;
